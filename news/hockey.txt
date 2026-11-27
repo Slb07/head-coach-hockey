@@ -1,0 +1,19 @@
+# HEAD COACH HOCKEY - NEWS FROM THE STUDIO
+# Newest item first. Items are split by a line of ===
+# ID is required: a new ID = players see it once. Keep the words short (about 4-5 lines).
+# Optional: FROM / UNTIL (game version like 1.4.0), EXPIRES (2026-12-31), BUTTON: LABEL | https://link
+# Only letters, numbers and ! " # $ % & + , - . / : ? ' work. {Braces} make words gold.
+
+ID: 2026-12-hockey-1-4
+TITLE: WATCH ANY GAME
+FROM: 1.4.0
+
+THANKS FOR COACHING! THIS UPDATE CAME FROM YOUR IDEAS: {WATCH ANY GAME} AROUND THE LEAGUE, PLAYOFFS TOO, YOUR OWN {CUSTOM SCHEDULE}, AND YOUR OWN {TEAM LOGOS}.
+
+GOT AN IDEA? SEND FEEDBACK IS UNDER SETTINGS - MORE.
+===
+ID: 2026-12-football-soon
+TITLE: FOOTBALL IS COMING
+EXPIRES: 2027-01-31
+
+{HEAD COACH FOOTBALL} IS IN TESTING NOW: CALL EVERY PLAY FROM THE BOOTH AND RUN A WHOLE FRANCHISE. IT'S COMING TO GOOGLE PLAY SOON.
